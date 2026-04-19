@@ -1,77 +1,75 @@
-<h1 align="center">Hi there 👋, I'm Quy — Digital Infrastructure Engineer</h1>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=QUY%20TRAN&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%" />
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=120&section=header&text=Building%20Resilient%20Systems&fontSize=40&fontAlignY=50" width="100%"/>
+<img src="https://img.shields.io/badge/CLOUD%20ARCHITECT-000000?style=for-the-badge&logo=icloud&logoColor=white" />
+<img src="https://img.shields.io/badge/DEVOPS%20ENGINEER-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/SRE%20SPECIALIST-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
+</div>
+
+<br />
+
 <table>
 <tr>
-<td width="65%" valign="top">
-<h3>👨‍💻 Executive Summary</h3>
-<p>Với định hướng trở thành <b>Senior Cloud/DevOps Engineer</b>, tôi tập trung vào việc thiết kế hạ tầng có khả năng mở rộng (Scalability), tính sẵn sàng cao (High Availability) và bảo mật tuyệt đối.</p>
-<p>Tôi tin vào triết lý <i>"Infrastructure as Code"</i> — biến mọi thao tác thủ công thành các dòng code có thể quản lý và tái sử dụng.</p>
-<h4>🎯 Core Competencies:</h4>
+<td width="60%" valign="top">
+<h3>◈ Professional Profile</h3>
+<p>Tôi là một <b>Infrastructure Engineer</b> với tư duy thiết kế hệ thống có khả năng tự phục hồi (Self-healing) và mở rộng linh hoạt. Thay vì quản trị thủ công, tôi tập trung vào việc <i>"Code hóa hạ tầng"</i> để đảm bảo tính nhất quán và hiệu suất tối đa.</p>
+<h4>⚡ Core Architecture:</h4>
 <ul>
-<li><b>Cloud & Virtualization:</b> AWS (EC2, S3, RDS), VMware, Proxmox.</li>
-<li><b>Infrastructure as Code (IaC):</b> Terraform, CloudFormation, Ansible.</li>
-<li><b>Automation & CI/CD:</b> GitHub Actions, Jenkins, GitLab CI.</li>
-<li><b>Containerization:</b> Docker & Kubernetes (K8s) Orchestration.</li>
+<li><b>High Availability:</b> Thiết kế hệ thống chịu lỗi trên AWS/Azure.</li>
+<li><b>Scalability:</b> Tự động điều phối tài nguyên với Kubernetes.</li>
+<li><b>Observability:</b> Giám sát toàn diện qua Prometheus & Grafana.</li>
+<li><b>Security:</b> Tối ưu hóa bảo mật mạng và phân quyền IAM.</li>
 </ul>
 </td>
-<td width="35%" valign="top">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/dev.gif" width="100%">
+<td width="40%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquy271104&layout=compact&theme=transparent&hide_border=true&title_color=00BFFF&text_color=ffffff" width="100%" />
 </td>
 </tr>
 </table>
+
 <hr />
-<h3>🚀 Professional Tech Stack & Tools</h3>
-<table>
+
+<h3>◈ Technology Stack Matrix</h3>
+<table width="100%">
 <tr>
-<td align="center" width="25%"><b>Cloud Platforms</b></td>
-<td align="center" width="25%"><b>DevOps & CI/CD</b></td>
-<td align="center" width="25%"><b>Networking</b></td>
-<td align="center" width="25%"><b>Monitoring</b></td>
+<td align="left"><b>Infrastructure</b></td>
+<td align="left"><b>Orchestration</b></td>
+<td align="left"><b>Automation</b></td>
+<td align="left"><b>Monitoring</b></td>
 </tr>
 <tr>
-<td valign="top">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+<td>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws" /><br/>
+<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform" />
 </td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+<td>
+<img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes" /><br/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" />
 </td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/F5_Networks-ED1C24?style=flat-square&logo=f5&logoColor=white" />
+<td>
+<img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible" /><br/>
+<img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins" />
 </td>
-<td valign="top">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white" />
+<td>
+<img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana" /><br/>
+<img src="https://img.shields.io/badge/-ELK-005571?style=flat-square&logo=elastic-stack" />
 </td>
 </tr>
 </table>
+
 <hr />
-<h3>🛡️ Certifications & Learning Path</h3>
-<p>
-<img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws" />
-<img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes" />
-<img src="https://img.shields.io/badge/CCNA-Network_Associate-1BA0D7?style=for-the-badge&logo=cisco" />
-</p>
-<hr />
-<h3>📈 System Activity & Metrics</h3>
+
+<h3>◈ Performance Metrics</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tranquy271104&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquy271104&layout=compact&theme=dracula&border_radius=10" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=tranquy271104&show_icons=true&theme=transparent&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquy271104&theme=transparent&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="49%" />
 </p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquy271104&theme=dracula&border_radius=10" width="95%" />
-</p>
-<hr />
-<p align="center">
-<i>"Automate everything, document everywhere."</i><br>
-📫 <b>Connect with me:</b> <a href="mailto:tranquy271104@gmail.com">tranquy271104@gmail.com</a> | <a href="#">LinkedIn</a> | <a href="#">Portfolio</a>
-</p>
+
+<br />
+
+<div align="center">
+<p><i>"The goal of DevOps is not just to automate, but to create a culture of continuous evolution."</i></p>
+<a href="mailto:tranquy271104@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
