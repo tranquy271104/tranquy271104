@@ -1,93 +1,69 @@
 ## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Quy (tranquy271104)</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Network%20%26%20Cloud%20Engineer&fontSize=50&animation=fadeIn" width="100%"/>
+</p>
+
 <table>
   <tr>
     <td width="60%">
-      <h2>🎯 About Me</h2>
-      <h3>👋 Hello World! I'm Quy</h3>
-      <p>🎓 <b>Java Developer / CS Student</b></p>
-      <p>📍 Based in Ho Chi Minh City, Vietnam</p>
-      <p>💡 Tôi đam mê lập trình Java và đang học cách xây dựng các hệ thống thông minh.</p>
+      <h2>🌐 Digital Infrastructure Architect</h2>
+      <p>Tôi là một sinh viên CNTT với niềm đam mê xây dựng và tối ưu hóa hệ thống mạng, hạ tầng đám mây và tự động hóa quy trình vận hành (DevOps).</p>
       
-      <h4>🔬 What I Do:</h4>
+      <h4>🚀 Chuyên môn chính:</h4>
       <ul>
-        <li>☕ <b>Java Core</b> — OOP, Collections, Multithreading</li>
-        <li>🖼️ <b>Swing/JavaFX</b> — Xây dựng ứng dụng quản lý (Desktop App)</li>
-        <li>🗄️ <b>SQL</b> — Kết nối và quản lý dữ liệu (MySQL, SQL Server)</li>
+        <li><b>Networking:</b> Thiết kế, cấu hình hệ thống mạng (Cisco, Mikrotik).</li>
+        <li><b>Cloud Computing:</b> Triển khai hạ tầng trên AWS, Azure & Google Cloud.</li>
+        <li><b>DevOps Tools:</b> Docker, Kubernetes, Jenkins & Terraform.</li>
+        <li><b>Linux Admin:</b> Quản trị hệ thống Ubuntu/CentOS Server.</li>
       </ul>
+      
+      <h4>📫 Kết nối với tôi:</h4>
+      <p>
+        <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+      </p>
     </td>
     <td width="40%">
-      <img src="https://github.com/KhoiBui16/KhoiBui16/raw/main/assets/images/coding_illustration.png" width="100%">
+      <img src="https://github.com/KhoiBui16/KhoiBui16/raw/main/assets/images/coding_illustration.png" width="100%" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
-### 🚀 Currently Exploring:
 
-[![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java)](https://github.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)](https://github.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github)](https://github.com/)
-> 💬 "Học lập trình không chỉ là viết code, mà là giải quyết vấn đề."
-> *Hãy bắt đầu từ những commit nhỏ nhất.*
-<!--
-**tranquy271104/tranquy271104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-README.md:
-![Banner](./<img width="854" height="200" alt="68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3636376565612c35303a3736346261322c3130303a663039336662266865696768743d3230302673656374696f6e3d6865" src="https://github.com/user-attachments/assets/fdcb2472-b986-4ff9-90aa-90059157e2b0" />
-)
-      <svg
-        width="854"
-        height="200"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 200"
-      >
-        <style>
-      .text {   font-size: 40px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#667eea"/><stop offset="50%" stop-color="#764ba2"/><stop offset="100%" stop-color="#f093fb"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="35%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >Welcome to Khoi's World!</text>
-        
-      </svg>
-    
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack & Tools</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<hr />
+
+<h3>📈 GitHub Statistics</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tranquy271104&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquy271104&layout=compact&theme=tokyonight&hide=html,css" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquy271104&theme=tokyonight" width="90%" />
+</p>
+
+<br />
+
+<p align="center">
+  <i>"Automate everything, document everywhere."</i><br>
+  <b>✨ Cảm ơn bạn đã ghé thăm trang cá nhân của tôi! ✨</b>
+</p>
