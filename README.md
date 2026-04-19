@@ -6,14 +6,13 @@
 <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ARCHITECT-00BFFF?style=for-the-badge" />
 </p>
 </div>
-<td width="45%" valign="top">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp6bmR6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/IZY2SE2JmPgIlQZXCv/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
-</td>
 <br />
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="45%" valign="top">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp6bmR6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/IZY2SE2JmPgIlQZXCv/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
+</td>
 <h3>👋 Hello World! I'm Quy Tran</h3>
 <p>Tôi là một <b>Infrastructure Engineer</b> tại <b>PTIT</b> với tầm nhìn xây dựng các hệ thống tự động hóa toàn diện. Tư duy của tôi dựa trên sự kết hợp giữa thuật toán tối ưu và hạ tầng đám mây bền vững, có khả năng tự phục hồi (Self-healing).</p>
 <p>Vào năm 2030, tôi tập trung vào việc áp dụng triết lý <b>"Infrastructure as Code"</b> và <b>AIOps</b> để vận hành hạ tầng ở quy mô toàn cầu.</p>
