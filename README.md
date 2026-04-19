@@ -63,23 +63,63 @@
 <hr />
 <h2 align="center">🛰️ Strategic Infrastructure Roadmap</h2>
 
+
+
 <details open>
-<summary><b>Giai đoạn 1 - 4: Foundation to IaC 🚀</b></summary>
+
+<summary><b>Giai đoạn 1 - 2: Core Foundation & Containerization 🚀</b></summary>
+
 <br>
-<p><b>GĐ 1:</b> Linux Distribution, Python, Bash, Git, VS Code.<br>
-<b>GĐ 2:</b> Docker Ecosystem, Containerization, Docker Hub.<br>
-<b>GĐ 3:</b> CI/CD (GitHub Actions), AWS/GCP Multi-cloud.<br>
-<b>GĐ 4:</b> Ansible Automation, Terraform Provisioning.</p>
+
+<p><b>GĐ 1:</b> Linux Distribution (Ubuntu/CentOS), Python, Bash, Git, VS Code, Proxmox.<br>
+
+<b>GĐ 2:</b> Docker Engine, Docker Compose, Microservices, Container Registry.</p>
+
 </details>
 
+
+
 <details>
-<summary><b>Giai đoạn 5 - 8: Scale-out to Architecture Mastery 🏛️</b></summary>
+
+<summary><b>Giai đoạn 3 - 4: Cloud & IaC Mastery ☁️</b></summary>
+
 <br>
-<p><b>GĐ 5:</b> Managed DB (RDS), Messaging Queue (Kafka), Network Security.<br>
-<b>GĐ 6:</b> Kubernetes (K8s), Helm, Istio Service Mesh.<br>
-<b>GĐ 7:</b> DevSecOps, HashiCorp Vault, ELK Stack Monitoring.<br>
-<b>GĐ 8:</b> GitOps (ArgoCD), Chaos Engineering, SRE Mastery.</p>
+
+<p><b>GĐ 3:</b> GitHub Actions, AWS/GCP Multi-cloud, CI/CD Pipelines.<br>
+
+<b>GĐ 4:</b> Ansible Automation, Terraform Provisioning, Cloud-native SDKs.</p>
+
 </details>
+
+
+
+<details>
+
+<summary><b>Giai đoạn 5 - 6: Scale-out & Orchestration ☸️</b></summary>
+
+<br>
+
+<p><b>GĐ 5:</b> Managed DB (RDS), Messaging Queue (Kafka), Network Deep Debugging.<br>
+
+<b>GĐ 6:</b> Kubernetes (K8s), Helm, Istio Service Mesh, Cloud Monitoring.</p>
+
+</details>
+
+
+
+<details>
+
+<summary><b>Giai đoạn 7 - 8: DevSecOps & Enterprise Architecture 🏛️</b></summary>
+
+<br>
+
+<p><b>GĐ 7:</b> ELK Stack, HashiCorp Vault, SonarQube, Advanced Security Protocol.<br>
+
+<b>GĐ 8:</b> GitOps (ArgoCD), Chaos Engineering, Serverless, Backstage IDP.</p>
+
+</details>
+
+
 
 <hr />
 
