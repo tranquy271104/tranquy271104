@@ -175,9 +175,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquy271104&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tranquy271104&theme=tokyonight&hide_border=true&area=true" width="98%" />
-</p>
 
 <br />
 
