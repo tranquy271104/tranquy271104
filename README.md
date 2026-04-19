@@ -1,5 +1,32 @@
 ## Hi there 👋
+<table>
+  <tr>
+    <td width="60%">
+      <h2>🎯 About Me</h2>
+      <h3>👋 Hello World! I'm Quy</h3>
+      <p>🎓 <b>Java Developer / CS Student</b></p>
+      <p>📍 Based in Ho Chi Minh City, Vietnam</p>
+      <p>💡 Tôi đam mê lập trình Java và đang học cách xây dựng các hệ thống thông minh.</p>
+      
+      <h4>🔬 What I Do:</h4>
+      <ul>
+        <li>☕ <b>Java Core</b> — OOP, Collections, Multithreading</li>
+        <li>🖼️ <b>Swing/JavaFX</b> — Xây dựng ứng dụng quản lý (Desktop App)</li>
+        <li>🗄️ <b>SQL</b> — Kết nối và quản lý dữ liệu (MySQL, SQL Server)</li>
+      </ul>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/KhoiBui16/KhoiBui16/raw/main/assets/images/coding_illustration.png" width="100%">
+    </td>
+  </tr>
+</table>
+### 🚀 Currently Exploring:
 
+[![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=java)](https://github.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github)](https://github.com/)
+> 💬 "Học lập trình không chỉ là viết code, mà là giải quyết vấn đề."
+> *Hãy bắt đầu từ những commit nhỏ nhất.*
 <!--
 **tranquy271104/tranquy271104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 README.md:
