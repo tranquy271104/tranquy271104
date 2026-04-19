@@ -13,7 +13,7 @@
 <tr>
 <td width="55%" valign="top">
 <h3>◈ The Digital Alchemist</h3>
-<p>Chào bạn! Tôi là <b>Trần Quy</b>, một cựu sinh viên <b>PTIT</b> với niềm đam mê mãnh liệt trong việc xây dựng hạ tầng số tương lai. Vào năm 2030, tôi tập trung vào <b>AIOps</b>, <b>Multi-Cloud Architecture</b> và hệ thống tự chữa lành (Self-healing systems).</p>
+<p>Chào bạn! Tôi là <b>Trần Quy</b>, một sinh viên <b>PTIT</b> với niềm đam mê mãnh liệt trong việc xây dựng hạ tầng số tương lai. Vào năm 2030, tôi tập trung vào <b>AIOps</b>, <b>Multi-Cloud Architecture</b> và hệ thống tự chữa lành (Self-healing systems).</p>
 <p>Dựa trên nền tảng viễn thông vững chắc, tôi kết hợp sức mạnh của <b>DSA</b> và <b>DevOps</b> để tạo ra những hệ thống không chỉ nhanh mà còn cực kỳ thông minh.</p>
 <h4>🚀 Vision 2030:</h4>
 <ul>
