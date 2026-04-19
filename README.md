@@ -1,35 +1,66 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=QUY%20TRAN&subtitle=Digital%20Infrastructure%20Architect%202030&fontSize=70&subFontSize=25&animation=fadeIn&fontAlignY=40" width="100%" />
+
 <p align="center">
+
 <img src="https://img.shields.io/badge/PTIT-Học%20viện%20Công%20nghệ%20Bưu%20chính%20Viễn%20thông-B1102B?style=for-the-badge&logo=icloud&logoColor=white" />
+
 <img src="https://img.shields.io/badge/BORN-2004-000000?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ARCHITECT-00BFFF?style=for-the-badge" />
+
 </p>
+
 </div>
+
+
 
 <br />
 
+
+
 <table>
+
 <tr>
+
 <td width="55%" valign="top">
-<h3>◈ The Digital Alchemist</h3>
-<p>Chào bạn! Tôi là <b>Trần Quý (2004)</b>, sinh viên tại <b>PTIT</b> với tầm nhìn xây dựng hạ tầng số tương lai. Vào năm 2030, tôi tập trung vào <b>AIOps</b>, <b>Multi-Cloud Architecture</b> và hệ thống tự chữa lành.</p>
-<p>Dựa trên nền tảng viễn thông vững chắc của PTIT, tôi kết hợp sức mạnh của <b>DSA</b> và <b>DevOps</b> để tạo ra những hệ thống không chỉ nhanh mà còn cực kỳ thông minh.</p>
+
+<h3>👋 Hello World! I'm Tran Quy</h3>
+
+<p>Chào bạn! Tôi là <b>Trần Quý</b>, một sinh viên <b>PTIT</b> với niềm đam mê mãnh liệt trong việc xây dựng hạ tầng số tương lai. Vào năm 2030, tôi tập trung vào <b>AIOps</b>, <b>Multi-Cloud Architecture</b> và hệ thống tự chữa lành (Self-healing systems).</p>
+
+<p>Dựa trên nền tảng viễn thông vững chắc, tôi kết hợp sức mạnh của <b>DSA</b> và <b>DevOps</b> để tạo ra những hệ thống không chỉ nhanh mà còn cực kỳ thông minh.</p>
+
 <h4>🚀 Vision 2030:</h4>
+
 <ul>
-<li><b>Autonomous Ops:</b> Hệ thống tự tối ưu hóa bằng AI.</li>
-<li><b>Infrastructure as Code:</b> Quản trị hạ tầng bằng tư duy lập trình.</li>
+
+<li><b>Quantum Networking:</b> Sẵn sàng cho kỷ nguyên truyền tải mới.</li>
+
+<li><b>Autonomous Ops:</b> Hệ thống tự động tối ưu hóa bằng AI.</li>
+
 <li><b>Cyber Resilience:</b> Bảo mật tuyệt đối từ lõi hệ thống.</li>
+
 </ul>
+
 </td>
+
 <td width="45%" valign="top">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/dev.gif" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueWtsZzR6NHR4MmtqbmN6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
+
+<p align="center"><i>"Automating the future, one commit at a time."</i></p>
+
 </td>
+
 </tr>
+
 </table>
 
-<hr />
 
+
+<hr />
 <h2 align="center">🛰️ Strategic Infrastructure Roadmap</h2>
 
 <details open>
