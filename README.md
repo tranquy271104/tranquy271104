@@ -152,48 +152,40 @@
 <h2 align="center">🏅 Achievements & Certifications</h2>
 
 <table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/CCNA-Network_Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /><br>Cisco Certified - 2025
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br>Amazon Web Services - 2025
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/CKA-Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br>Cloud Native (CNCF) - 2026
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/LPI-Linux_Engineer-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>Linux Professional - 2024
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Red%20Team-CTIGA-B1102B?style=for-the-badge&logo=target" /><br>
-      <b>Threat Intelligence & Governance</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Google%20Cloud-Gemini%20DevOps-4285F4?style=for-the-badge&logo=google-cloud" /><br>
-      <b>Gemini for DevOps Engineers</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/AWS-Security%20Fundamentals-FF9900?style=for-the-badge&logo=amazon-aws" /><br>
-      <b>AWS Security Fundamentals</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CISCO-CCNA-1BA0D7?style=for-the-badge&logo=cisco" /><br>
-      <b>Network Associate</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/CNCF-CKA-326CE5?style=for-the-badge&logo=kubernetes" /><br>
-      <b>Kubernetes Administrator</b>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws" /><br>
-      <b>Solutions Architect</b>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CISCO-CCNA-1BA0D7?style=for-the-badge&logo=cisco" /><br>
+<b>Network Associate</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws" /><br>
+<b>Solutions Architect</b>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/CNCF-CKA-326CE5?style=for-the-badge&logo=kubernetes" /><br>
+<b>Kubernetes Admin</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Red%20Team-CTIGA-B1102B?style=for-the-badge&logo=target" /><br>
+<b>Threat Intelligence</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Google-Gemini%20DevOps-4285F4?style=for-the-badge&logo=google-cloud" /><br>
+<b>Gemini for DevOps</b>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/AWS-Security%20Fundamentals-232F3E?style=for-the-badge&logo=amazon-aws" /><br>
+<b>Security Specialist</b>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+<img src="https://img.shields.io/badge/LPI-Linux%20Engineer-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
+<b>Linux Professional</b>
+</td>
+</tr>
 </table>
 <hr />
 
