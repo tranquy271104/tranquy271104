@@ -110,6 +110,24 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tranquy271104&color=00BFFF&style=for-the-badge&label=SYSTEM+ACCESS" />
+<hr />
+
+<h2 align="center">📊 GitHub Analytics & Performance</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tranquy271104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranquy271104&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquy271104&theme=tokyonight&hide_border=true" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tranquy271104&theme=tokyonight&hide_border=true&area=true" width="98%" />
+</p>
+
+<br />
 <br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%" />
 </div>
