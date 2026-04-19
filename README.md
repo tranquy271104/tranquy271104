@@ -23,7 +23,7 @@
 </ul>
 </td>
 <td width="45%" valign="top">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/dev.gif" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
+<img src="https://github.com/JunoNgx/JunoNgx/raw/master/assets/ironman.gif" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
 </td>
 </tr>
 </table>
@@ -33,31 +33,21 @@
 <h2 align="center">🛰️ Strategic Infrastructure Roadmap</h2>
 
 <details open>
-<summary><b>Giai đoạn 1 - 2: Foundation & Containerization 🚀</b></summary>
+<summary><b>Giai đoạn 1 - 4: Foundation to IaC 🚀</b></summary>
 <br>
-<p><b>GĐ 1:</b> Linux Distribution, Python, Bash/PowerShell, Git, VS Code, VMware.<br>
-<b>GĐ 2:</b> Docker Engine, Docker Compose, Docker Hub, Containerization.</p>
+<p><b>GĐ 1:</b> Linux Distribution, Python, Bash, Git, VS Code.<br>
+<b>GĐ 2:</b> Docker Engine, Docker Compose, Docker Hub.<br>
+<b>GĐ 3:</b> CI/CD (GitHub Actions), AWS/GCP Multi-cloud.<br>
+<b>GĐ 4:</b> Ansible Automation, Terraform Provisioning.</p>
 </details>
 
 <details>
-<summary><b>Giai đoạn 3 - 4: Cloud & IaC Mastery ☁️</b></summary>
+<summary><b>Giai đoạn 5 - 8: Scale-out to Architecture Mastery 🏛️</b></summary>
 <br>
-<p><b>GĐ 3:</b> GitHub Actions, AWS/GCP Multi-cloud, CI/CD Pipelines.<br>
-<b>GĐ 4:</b> Ansible Automation, Terraform Provisioning, Cloud CLI/SDKs.</p>
-</details>
-
-<details>
-<summary><b>Giai đoạn 5 - 6: Scale-out & Orchestration ☸️</b></summary>
-<br>
-<p><b>GĐ 5:</b> Managed DB (RDS), Messaging (Pub/Sub), Network Utilities (iptables).<br>
-<b>GĐ 6:</b> Kubernetes (kubectl), Helm, Kustomize, Cloud Monitoring.</p>
-</details>
-
-<details>
-<summary><b>Giai đoạn 7 - 8: DevSecOps & Enterprise Architecture 🏛️</b></summary>
-<br>
-<p><b>GĐ 7:</b> ELK Stack, HashiCorp Vault, SonarQube, Prometheus, Grafana.<br>
-<b>GĐ 8:</b> GitOps (ArgoCD), Chaos Engineering, Serverless, Backstage IDP.</p>
+<p><b>GĐ 5:</b> Managed DB (RDS), Messaging (SQS), Network Security.<br>
+<b>GĐ 6:</b> Kubernetes (K8s), Helm, Istio Service Mesh.<br>
+<b>GĐ 7:</b> DevSecOps, HashiCorp Vault, ELK Stack Monitoring.<br>
+<b>GĐ 8:</b> GitOps (ArgoCD), Chaos Engineering, Serverless Architecture.</p>
 </details>
 
 <hr />
@@ -65,12 +55,11 @@
 <h2 align="center">🛠 Tech Stack Matrix</h2>
 
 <details open>
-<summary>💻 <b>Foundational Languages & DSA</b></summary>
+<summary>💻 <b>Foundational Programming & DSA</b></summary>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/DSA-Expert-FF6F61?style=for-the-badge" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
@@ -81,9 +70,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes" />
+<img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 </details>
 
@@ -123,7 +112,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=tranquy271104&color=00BFFF&style=for-the-badge&label=SYSTEM+ACCESS" />
 <br><br>
-<p><i>"If you don't like your destiny, don't accept it. Instead, have the courage to change it."</i> — <b>Naruto Uzumaki</b></p>
+<p><i>"The goal of an engineer is to make the complex simple."</i></p>
 <a href="mailto:tranquy271104@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin" /></a>
 <br><br>
