@@ -168,8 +168,6 @@
       <img src="https://img.shields.io/badge/LPI-Linux_Engineer-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>Linux Professional - 2024
     </td>
   </tr>
-</table>
-<table width="100%">
   <tr>
     <td align="center" width="33%">
       <img src="https://img.shields.io/badge/Red%20Team-CTIGA-B1102B?style=for-the-badge&logo=target" /><br>
