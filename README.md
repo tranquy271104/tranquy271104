@@ -14,7 +14,7 @@
 <td width="60%" valign="top">
 <h3>◈ Professional Summary</h3>
 <p>Tôi là một <b>Infrastructure Engineer</b> với tầm nhìn xây dựng các hệ thống tự động hóa toàn diện. Tư duy của tôi dựa trên sự kết hợp giữa thuật toán tối ưu và hạ tầng đám mây bền vững, có khả năng tự phục hồi (Self-healing).</p>
-<p>Tôi sinh năm 2004 và là một cựu sinh viên chuyên ngành CNTT tại <b>Học viện Công nghệ Bưu chính Viễn thông (PTIT)</b>. Với nền tảng viễn thông vững chắc, tôi tập trung vào việc áp dụng triết lý <i>"Infrastructure as Code"</i> và <b>AIOps</b> để vận hành hạ tầng ở quy mô lớn.</p>
+<p>Tôi sinh năm 2004 và là một sinh viên tại <b>Học viện Công nghệ Bưu chính Viễn thông (PTIT)</b>. Với nền tảng viễn thông vững chắc, tôi tập trung vào việc áp dụng triết lý <i>"Infrastructure as Code"</i> và <b>AIOps</b> để vận hành hạ tầng ở quy mô lớn.</p>
 <h4>⚡ Engineering Philosophy:</h4>
 <ul>
 <li><b>Automation First:</b> Code hóa mọi hạ tầng, tự động hóa mọi quy trình.</li>
