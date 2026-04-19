@@ -108,3 +108,12 @@
 <a href="mailto:tranquy271104@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=tranquy271104&color=00BFFF&style=for-the-badge&label=SYSTEM+ACCESS" />
+<br><br>
+<p><i>"The goal of an engineer is to make the complex simple."</i></p>
+<a href="mailto:tranquy271104@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin" /></a>
+<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer" width="100%" />
+</div>
