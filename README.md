@@ -169,7 +169,36 @@
     </td>
   </tr>
 </table>
-
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Red%20Team-CTIGA-B1102B?style=for-the-badge&logo=target" /><br>
+      <b>Threat Intelligence & Governance</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Google%20Cloud-Gemini%20DevOps-4285F4?style=for-the-badge&logo=google-cloud" /><br>
+      <b>Gemini for DevOps Engineers</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/AWS-Security%20Fundamentals-FF9900?style=for-the-badge&logo=amazon-aws" /><br>
+      <b>AWS Security Fundamentals</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CISCO-CCNA-1BA0D7?style=for-the-badge&logo=cisco" /><br>
+      <b>Network Associate</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CNCF-CKA-326CE5?style=for-the-badge&logo=kubernetes" /><br>
+      <b>Kubernetes Administrator</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws" /><br>
+      <b>Solutions Architect</b>
+    </td>
+  </tr>
+</table>
 <hr />
 
 <h3 align="center">📊 Real-time Analytics & Performance</h3>
