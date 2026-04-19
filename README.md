@@ -167,17 +167,15 @@
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/LPI-Linux_Engineer-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>Linux Professional - 2024
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Red%20Team-CTIGA-B1102B?style=for-the-badge&logo=target" /><br>
       <b>Threat Intelligence & Governance</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/Google%20Cloud-Gemini%20DevOps-4285F4?style=for-the-badge&logo=google-cloud" /><br>
       <b>Gemini for DevOps Engineers</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://img.shields.io/badge/AWS-Security%20Fundamentals-FF9900?style=for-the-badge&logo=amazon-aws" /><br>
       <b>AWS Security Fundamentals</b>
     </td>
