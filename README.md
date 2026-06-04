@@ -1,61 +1,40 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=QUY%20TRAN&subtitle=Digital%20Infrastructure%20Architect%202030&fontSize=70&subFontSize=25&animation=fadeIn&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=002b36,0088cc,00bfff&height=220&section=header&text=QUY%20TRAN&subtitle=Network%20%E2%9E%9C%20System%20%E2%9E%9C%20Cloud%20%E2%9E%9C%20DevOps&fontSize=65&subFontSize=22&animation=fadeIn&fontAlignY=35&desc=Digital%20Infrastructure%20Architect%202030&descAlignY=68&descAlign=50" width="100%" />
 
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1500&color=00BFFF&center=true&vCenter=true&width=800&lines=%E2%97%8F+Stage+1%3A+Routing%2C+Switching+%26+Network+Core;%E2%97%8F+Stage+2%3A+Linux%2C+Servers+%26+System+Administration;%E2%97%8F+Stage+3%3A+Multi-Cloud%2C+Kubernetes+%26+IaC;%E2%97%8F+Stage+4%3A+Automation%2C+CI%2FCD+%26+DevSecOps" alt="Evolution Path" /></a>
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/PTIT-Học%20viện%20Công%20nghệ%20Bưu%20chính%20Viễn%20thông-B1102B?style=for-the-badge&logo=icloud&logoColor=white" />
-
-<img src="https://img.shields.io/badge/BORN-2004-000000?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/BORN-2007-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ARCHITECT-00BFFF?style=for-the-badge" />
-
 </p>
 
 </div>
 
-
-
 <br />
 
-
-
 <table>
-
 <tr>
-
 <td width="55%" valign="top">
-
 <h3>👋 Hello World! I'm Tran Quy</h3>
-
-<p>Chào bạn! Tôi là <b>Trần Quý</b>, một sinh viên <b>PTIT</b> với niềm đam mê mãnh liệt trong việc xây dựng hạ tầng số tương lai. Vào năm 2030, tôi tập trung vào <b>AIOps</b>, <b>Multi-Cloud Architecture</b> và hệ thống tự chữa lành (Self-healing systems).</p>
-
-<p>Dựa trên nền tảng viễn thông vững chắc, tôi kết hợp sức mạnh của <b>DSA</b> và <b>DevOps</b> để tạo ra những hệ thống không chỉ nhanh mà còn cực kỳ thông minh.</p>
+<p>Chào bạn! Tôi là <b>Trần Quý</b>, một sinh viên <b>PTIT</b> với định hướng trở thành Digital Infrastructure Architect vào năm 2030.</p>
+<p>Lộ trình phát triển của tôi là một sự tiến hóa có chủ đích: Bắt đầu từ việc nắm vững luồng dữ liệu dưới đáy mạng <b>(Network)</b>, tôi tiến lên làm chủ hạ tầng máy chủ cốt lõi <b>(System)</b>. Từ nền tảng vững chắc đó, tôi đưa hệ thống lên không gian điện toán đám mây <b>(Cloud)</b> và cuối cùng, tự động hóa toàn bộ vòng đời phần mềm bằng tư duy <b>(DevOps)</b>.</p>
 
 <h4>🚀 Vision 2030:</h4>
-
 <ul>
-
-<li><b>Quantum Networking:</b> Sẵn sàng cho kỷ nguyên truyền tải mới.</li>
-
-<li><b>Autonomous Ops:</b> Hệ thống tự động tối ưu hóa bằng AI.</li>
-
-<li><b>Cyber Resilience:</b> Bảo mật tuyệt đối từ lõi hệ thống.</li>
-
+<li><b>AIOps & Self-healing:</b> Hệ thống tự động phân tích và khắc phục sự cố.</li>
+<li><b>Multi-Cloud Architecture:</b> Kiến trúc phân tán, chịu lỗi cao trên AWS/GCP.</li>
+<li><b>Cyber Resilience:</b> Bảo mật DevSecOps nhúng sâu vào từng dòng code.</li>
 </ul>
-
 </td>
-
 <td width="45%" valign="top">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueWtsZzR6NHR4MmtqbmN6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
-
-<p align="center"><i>"Automating the future, one commit at a time."</i></p>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueWtsZzR6NHR4MmtqbmN6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
+<p align="center"><i>"Automating the evolution of infrastructure."</i></p>
 </td>
-
 </tr>
-
 </table>
 
 
