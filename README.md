@@ -8,7 +8,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/PTIT-Học%20viện%20Công%20nghệ%20Bưu%20chính%20Viễn%20thông-B1102B?style=for-the-badge&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/BORN-2007-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BORN-2004-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ARCHITECT-00BFFF?style=for-the-badge" />
 </p>
 
