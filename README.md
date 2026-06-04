@@ -8,7 +8,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/PTIT-Học%20viện%20Công%20nghệ%20Bưu%20chính%20Viễn%20thông-B1102B?style=for-the-badge&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/BORN-2004-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BORN-2007-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ARCHITECT-00BFFF?style=for-the-badge" />
 </p>
 
@@ -20,15 +20,21 @@
 <tr>
 <td width="55%" valign="top">
 <h3>👋 Hello World! I'm Tran Quy</h3>
-<p>Chào bạn! Tôi là <b>Trần Quý</b>, một sinh viên <b>PTIT</b> với định hướng trở thành Digital Infrastructure Architect vào năm 2030.</p>
-<p>Lộ trình phát triển của tôi là một sự tiến hóa có chủ đích: Bắt đầu từ việc nắm vững luồng dữ liệu dưới đáy mạng <b>(Network)</b>, tôi tiến lên làm chủ hạ tầng máy chủ cốt lõi <b>(System)</b>. Từ nền tảng vững chắc đó, tôi đưa hệ thống lên không gian điện toán đám mây <b>(Cloud)</b> và cuối cùng, tự động hóa toàn bộ vòng đời phần mềm bằng tư duy <b>(DevOps)</b>.</p>
 
-<h4>🚀 Vision 2030:</h4>
-<ul>
-<li><b>AIOps & Self-healing:</b> Hệ thống tự động phân tích và khắc phục sự cố.</li>
-<li><b>Multi-Cloud Architecture:</b> Kiến trúc phân tán, chịu lỗi cao trên AWS/GCP.</li>
-<li><b>Cyber Resilience:</b> Bảo mật DevSecOps nhúng sâu vào từng dòng code.</li>
-</ul>
+<p>🎓 <b>Digital Infrastructure Student</b> @ <b>PTIT</b><br>
+📍 Based in <b>Ho Chi Minh City, Vietnam</b> 🇻🇳<br>
+💡 I'm passionate about building <b>scalable and highly available systems</b> — from <b>bare-metal networks to cloud-native deployments!</b></p>
+
+<h4>🔬 What I Do:</h4>
+<p>
+🌐 <b>Networking</b> — Cisco Routing & Switching, SDN/NFV, Quantum Readiness<br>
+🐧 <b>System Admin</b> — Linux (Ubuntu/CentOS), Bash Scripting, Virtualization<br>
+☁️ <b>Cloud & IaC</b> — AWS, GCP, Multi-Cloud Architecture, Terraform<br>
+🐳 <b>Orchestration</b> — Docker, Kubernetes (K8s), Helm, Istio Service Mesh<br>
+⚙️ <b>DevOps & CI/CD</b> — GitHub Actions, GitOps (ArgoCD), Ansible<br>
+🛡️ <b>DevSecOps & AIOps</b> — Cyber Resilience, Prometheus, Self-healing systems
+</p>
+
 </td>
 <td width="45%" valign="top">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueWtsZzR6NHR4MmtqbmN6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #9863a3;">
@@ -36,7 +42,6 @@
 </td>
 </tr>
 </table>
-
 
 
 <hr />
