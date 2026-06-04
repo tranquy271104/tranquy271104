@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001f3f,0088cc,00bfff&height=250&section=header&text=QUY%20TRAN&subtitle=Network%20%E2%9E%9C%20System%20%E2%9E%9C%20Cloud%20%E2%9E%9C%20DevOps&fontSize=60&subFontSize=22&animation=fadeIn&fontAlignY=35&desc=Digital%20Infrastructure%20Architect%202030&descAlignY=65&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=4a478a,9863a3&height=200&section=header&text=Welcome%20to%20Tran%20Quy's%20World!&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1500&color=00BFFF&center=true&vCenter=true&width=800&lines=%E2%97%8F+Stage+1%3A+Routing%2C+Switching+%26+Network+Core;%E2%97%8F+Stage+2%3A+Linux%2C+Servers+%26+System+Administration;%E2%97%8F+Stage+3%3A+Multi-Cloud%2C+Kubernetes+%26+IaC;%E2%97%8F+Stage+4%3A+Automation%2C+CI%2FCD+%26+DevSecOps" alt="Evolution Path" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1500&color=9863a3&center=true&vCenter=true&width=800&lines=%E2%97%8F+Stage+1%3A+Routing%2C+Switching+%26+Network+Core;%E2%97%8F+Stage+2%3A+Linux%2C+Servers+%26+System+Administration;%E2%97%8F+Stage+3%3A+Multi-Cloud%2C+Kubernetes+%26+IaC;%E2%97%8F+Stage+4%3A+Automation%2C+CI%2FCD+%26+DevSecOps" alt="Evolution Path" /></a>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/PTIT-Học%20viện%20Công%20nghệ%20Bưu%20chính%20Viễn%20thông-B1102B?style=for-the-badge&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/BORN-2004-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BORN-2007-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ARCHITECT-00BFFF?style=for-the-badge" />
 </p>
 
@@ -31,7 +31,7 @@
 </ul>
 </td>
 <td width="45%" valign="top">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueWtsZzR6NHR4MmtqbmN6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueWtsZzR6NHR4MmtqbmN6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #9863a3;">
 <p align="center"><i>"Automating the evolution of infrastructure."</i></p>
 </td>
 </tr>
