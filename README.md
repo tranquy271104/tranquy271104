@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=002b36,0088cc,00bfff&height=220&section=header&text=QUY%20TRAN&subtitle=Network%20%E2%9E%9C%20System%20%E2%9E%9C%20Cloud%20%E2%9E%9C%20DevOps&fontSize=65&subFontSize=22&animation=fadeIn&fontAlignY=35&desc=Digital%20Infrastructure%20Architect%202030&descAlignY=68&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=001f3f,0088cc,00bfff&height=250&section=header&text=QUY%20TRAN&subtitle=Network%20%E2%9E%9C%20System%20%E2%9E%9C%20Cloud%20%E2%9E%9C%20DevOps&fontSize=60&subFontSize=22&animation=fadeIn&fontAlignY=35&desc=Digital%20Infrastructure%20Architect%202030&descAlignY=65&descAlign=50" width="100%" />
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1500&color=00BFFF&center=true&vCenter=true&width=800&lines=%E2%97%8F+Stage+1%3A+Routing%2C+Switching+%26+Network+Core;%E2%97%8F+Stage+2%3A+Linux%2C+Servers+%26+System+Administration;%E2%97%8F+Stage+3%3A+Multi-Cloud%2C+Kubernetes+%26+IaC;%E2%97%8F+Stage+4%3A+Automation%2C+CI%2FCD+%26+DevSecOps" alt="Evolution Path" /></a>
