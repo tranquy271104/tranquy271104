@@ -8,7 +8,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/PTIT-Học%20viện%20Công%20nghệ%20Bưu%20chính%20Viễn%20thông-B1102B?style=for-the-badge&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/BORN-2004-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BORN-2007-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ARCHITECT-00BFFF?style=for-the-badge" />
 </p>
 
@@ -21,28 +21,27 @@
 <td width="55%" valign="top">
 <h3>👋 Hello World! I'm Tran Quy</h3>
 
-<p>🎓 <b>Digital Infrastructure Student</b> @ <b>PTIT</b><br>
+<p>🎓 <b>Telecommunications Student</b> @ <b>PTIT</b><br>
 📍 Based in <b>Ho Chi Minh City, Vietnam</b> 🇻🇳<br>
-💡 I'm passionate about building <b>scalable and highly available systems</b> — from <b>bare-metal networks to cloud-native deployments!</b></p>
+💡 I'm passionate about building <b>scalable and highly available systems</b> — combining telecommunications expertise with <b>cloud-native deployments!</b></p>
 
 <h4>🔬 What I Do:</h4>
 <p>
-🌐 <b>Networking</b> — Cisco Routing & Switching, SDN/NFV, Quantum Readiness<br>
+📡 <b>Telecommunications</b> — Core Networks, SDN/NFV, TCP/IP Deep Dive<br>
+🌐 <b>Networking</b> — Cisco Routing & Switching, Network Topology, Mininet<br>
 🐧 <b>System Admin</b> — Linux (Ubuntu/CentOS), Bash Scripting, Virtualization<br>
 ☁️ <b>Cloud & IaC</b> — AWS, GCP, Multi-Cloud Architecture, Terraform<br>
 🐳 <b>Orchestration</b> — Docker, Kubernetes (K8s), Helm, Istio Service Mesh<br>
-⚙️ <b>DevOps & CI/CD</b> — GitHub Actions, GitOps (ArgoCD), Ansible<br>
-🛡️ <b>DevSecOps & AIOps</b> — Cyber Resilience, Prometheus, Self-healing systems
+⚙️ <b>DevOps & CI/CD</b> — GitHub Actions, GitOps (ArgoCD), Ansible
 </p>
 
 </td>
 <td width="45%" valign="top">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJueWtsZzR6NHR4MmtqbmN6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 15px; border: 2px solid #9863a3;">
-<p align="center"><i>"Automating the evolution of infrastructure."</i></p>
+<p align="center"><i>"Bridging the gap between Telecom and Cloud."</i></p>
 </td>
 </tr>
 </table>
-
 
 <hr />
 <h2 align="center">🛰️ Strategic Infrastructure Roadmap</h2>
